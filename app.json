@@ -1,0 +1,12 @@
+{
+  "name": "LoginReactNative",
+  "displayName": "LoginReactNative",
+  "expo": {
+    "name": "LoginReactNative",
+    "slug": "LoginReactNative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
